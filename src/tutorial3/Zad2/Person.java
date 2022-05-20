@@ -1,4 +1,4 @@
-package Zad2;
+package tutorial3.Zad2;
 
 import java.util.List;
 

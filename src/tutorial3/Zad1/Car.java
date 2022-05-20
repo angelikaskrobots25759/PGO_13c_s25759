@@ -1,4 +1,4 @@
-package Zad1;
+package tutorial3.Zad1;
 
 public class Car {
     private int weight;
